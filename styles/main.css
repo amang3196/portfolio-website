@@ -26,7 +26,6 @@ img {
     width: 500px; /* Set the width of the image */
     height: 350px; /* Set the height of the image */
     margin-right: 150px; /* Adjust the left margin for positioning */
-    margin-top: 100px;
 }
 
 #MainMenu {visibility: hidden;}
