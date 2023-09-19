@@ -72,6 +72,20 @@ cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
+# EDUCTATION SECTION
+st.write('\n')
+st.subheader("Education")
+st.write("---")
+
+# Education 1
+st.write("📚", "**MBA (Data Sciences & Data Analytics)** | *Symbiosis International University*")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ 2021 - 2023")
+
+# Education 2
+st.write('\n')
+st.write("📚", "**B.C.A** | *Symbiosis International University*")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ 2018 - 2021")
+
 
 # --- WORK HISTORY ---
 st.write('\n')
@@ -79,8 +93,8 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Intern - Data Science/AI | Aethereus Consulting**")
-st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: 05/2023 - 08/2023")
+st.write("💼", "**Intern - Data Science/AI | Aethereus Consulting**")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ 05/2023 - 08/2023")
 st.write(
     """
 - ✅ Built requirements for AI based solution for route optimization for field sales reps
@@ -95,8 +109,8 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Data Science Intern | Alpha AI**")
-st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: 04/2022 - 07/2022")
+st.write("💼", "**Data Science Intern | Alpha AI**")
+st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗓️ 04/2022 - 07/2022")
 st.write(
     """
 - ✅ Research and experiment with pre built AI models to solve existing business problems
@@ -113,7 +127,7 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "**AI Intern | Vitesco Technology**")
+st.write("💼", "**AI Intern | Vitesco Technology**")
 st.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: 09/2020 - 07/2021")
 st.write(
     """
@@ -131,11 +145,11 @@ st.write('\n')
 st.subheader("Skills")
 st.write(
     """
-- 👩‍💻 Programming : Python, Pandas, Numpy, Scikit-learn, Tensorflow, PyTorch
-- 🕸️ Web Frameworks : Flask, Streamlit
-- 📈 Data Visulization : PowerBI, Plotly, Seaborn, Matplotlib
-- 🗄️ Databases : MongoDB, MySQL
-- 🤖 Machine Learning : Linear Regression, Decision Trees, Random Forrest, Clustering
+- 👩‍💻 *Programming* : Python, Pandas, Numpy, Scikit-learn, Tensorflow, PyTorch
+- 🕸️ *Web Frameworks* : Flask, Streamlit
+- 📈 *Data Visulization* : PowerBI, Plotly, Seaborn, Matplotlib
+- 🗄️ *Databases* : MongoDB, MySQL
+- 🤖 *Machine Learning* : Linear Regression, Decision Trees, Random Forrest, Clustering
 """
 )
 
@@ -146,7 +160,6 @@ skills = {
     'Machine Learning' : 'Linear Regression, Decision Trees, Random Forrest, Clustering',
     'Databases': 'MongoDB, MySQL'
 }
-
 
 
 # --- Projects & Accomplishments ---
