@@ -34,8 +34,8 @@ PROJECTS = {
     # US POLICE SHOOTINGS ANALYSIS
     "🏆 US Police Shootings Analysis - Detailed trends and analysis on US Police Shootings": "https://github.com/amang3196/US-Police-Shootings-Analysis",
     
-    # TWITTER SENTIMENT ANALYSIS
-    "🏆 Twitter Sentiment Analysis - Analysing sentiment based around #Apple": "https://github.com/amang3196/Twitter-Sentiment-Analysis",
+    # # TWITTER SENTIMENT ANALYSIS
+    # "🏆 Twitter Sentiment Analysis - Analysing sentiment based around #Apple": "https://github.com/amang3196/Twitter-Sentiment-Analysis",
 }
 
 
