@@ -2,7 +2,7 @@
 Take a look at my digital resume. Learn more about me without downloading my resume.
 
 ## Click here to give me a chance
-👉 **https://resume.pythonandvba.com/**
+👉 https://amangarg.streamlit.app/
 
 ## Built Using
 <!-- 

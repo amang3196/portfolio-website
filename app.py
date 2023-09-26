@@ -20,7 +20,7 @@ I am an MBA graduate specializing in Data Sciences and Data Analytics. Possessin
 """
 EMAIL = "amangarg3196@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com",
+    "LinkedIn": "https://www.linkedin.com/in/aman-garg-b2ba4a120/",
     "EMAIL" : "mailto:amangarg3196@gmail.com",
     "GitHub": "https://github.com/amang3196"
 }
