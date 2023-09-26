@@ -32,10 +32,8 @@ PROJECTS = {
     "🏆 Movie Recommeder System - Content based recommender system deployed using streamlit cloud": "https://content-based-movie-recommender-system.streamlit.app/",
     
     # US POLICE SHOOTINGS ANALYSIS
-    "🏆 US Police Shootings Analysis - Detailed trends and analysis on US Police Shootings": "https://github.com/amang3196/US-Police-Shootings-Analysis",
+    "🏆 US Police Shootings Analysis - Detailed trends and analysis on US Police Shootings": "https://github.com/amang3196/US-Police-Shootings-Analysis/blob/main/Python/us_police_shootings_analysis.ipynb",
     
-    # TWITTER SENTIMENT ANALYSIS
-    "🏆 Twitter Sentiment Analysis - Analysing sentiment based around #Apple": "https://github.com/amang3196/Twitter-Sentiment-Analysis",
 }
 
 
@@ -140,18 +138,21 @@ domain knowledge and Artificial Intelligence.
 )
 
 
+
+
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Skills")
 st.write(
     """
-- 👩‍💻 *Programming* : Python, Pandas, Numpy, Scikit-learn, Tensorflow, PyTorch
+- 👩‍💻 *Programming* : Python, R, Pandas, Numpy, Scikit-learn, Tensorflow, PyTorch
 - 🕸️ *Web Frameworks* : Flask, Streamlit
 - 📈 *Data Visulization* : PowerBI, Plotly, Seaborn, Matplotlib
 - 🗄️ *Databases* : MongoDB, MySQL
 - 🤖 *Machine Learning* : Linear Regression, Decision Trees, Random Forrest, Clustering
 """
 )
+
 
 skills = {
     'Programming/Frameworks': 'Python, Pandas, Numpy, Scikit-learn, Tensorflow, PyTorch',
